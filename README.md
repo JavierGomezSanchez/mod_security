@@ -1,3 +1,5 @@
+# ModSecurity custom rules
+
 Temporary block login attempts based on retry and country
   
   
